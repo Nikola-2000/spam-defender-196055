@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="placeholder_text">Enter suspected URL</string>
+    <string name="button_text">Classify</string>
+    <string name="button_text_home">Classify</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spam Defender</string>
+    <string name="title_home">Detect</string>
+    <string name="title_dashboard">Email Manager</string>
+    <string name="title_notifications">Info</string>
+    <string name="placeholder_text">Enter suspected URL</string>
+    <string name="button_text">Classify</string>
+    <string name="button_text_home">Classify</string>
+    <string name="default_web_client_id">1042502406878-ehau29dua9u61s2rritmjkj2dli2g44b.apps.googleusercontent.com</string>
+</resources>
